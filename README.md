@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Fahim Faisal
 - 👀 I’m interested in Technology
-- 🌱 I’m currently learning Spring Boot & Laravel
+- 🌱 I’m currently learning Spring Boot, Laravel & ReactJs
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
