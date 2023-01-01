@@ -2,7 +2,7 @@
 
 ### 👋 Hi, I’m Fahim Faisal
 - 👀 I’m interested in Technology
-- 🌱 I’m currently learning Spring Boot, Laravel & ReactJs
+- 🌱 I’m currently Working on NextJS, ReactJs, ExpressJS.
 - 💞️ I’m looking to collaborate on ...
 
 ### Connect with me:
